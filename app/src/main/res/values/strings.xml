@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">GreenHouse Monitoring</string>
+  <string name="no_water">No watering required.</string>
+  <string name="required_water">Watering required!</string>
+  <string name="temperature">Temperature</string>
+  <string name="n_a">N/A</string>
+  <string name="humidity">Humidity</string>
+  <string name="air_quality">Air Quality</string>
+  <string name="image_description">null</string>
+</resources>

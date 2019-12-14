@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "969436203504",
+    "firebase_url": "https://greenhouse-sight.firebaseio.com",
+    "project_id": "greenhouse-sight",
+    "storage_bucket": "greenhouse-sight.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969436203504:android:1d6fdeba07e95d76af7535",
+        "android_client_info": {
+          "package_name": "com.panic1k.housemonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969436203504-h213ea2lb32irntl58c4h6ds8ru8cntb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwyVTEPwsht6ZbzJYgv1iHGL3AMyRdIBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969436203504-h213ea2lb32irntl58c4h6ds8ru8cntb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
